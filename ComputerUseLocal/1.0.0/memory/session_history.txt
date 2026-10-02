@@ -1,0 +1,8 @@
+START_URL: https://www.amazon.com
+GLOBAL_GOAL: Search strictly for '27-inch 4K monitor' on amazon. Identify the price of a prominent listing (such as the Dell or LXZ monitor), and confirm that value explicitly.
+--- ACTION LOG ---
+Step 1 | Plan: TYPE "27-inch 4K monitor" INTO SEARCHBOX (element 93) | Action Taken: type | Target/Query: 27-inch 4K monitor | Result: Successfully typed '27-inch 4K monitor' into: 'Search Amazon'. Field is filled but NOT submitted; a separate click on button is required.
+Step 2 | Plan: CLICK BUTTON | LABEL: 'Go' | ELEMENT: 107 | Action Taken: click | Target/Query: 107 | Result: Successfully clicked element: 'Go'
+Step 3 | Plan: CLICK LINK | LABEL: 'Dell 27 Plus 4K Monitor - S2725QS - 27-inch 4K (3840 x 2160) 120Hz 16:9 Display, IPS Panel, AMD FreeSync Premium, sRGB 99%, Integrated Speakers, 1500:1 Contrast Ratio, Comfortview - Ash White' (element 128) | Action Taken: click | Target/Query: 128 | Result: Successfully clicked element: 'Dell 27 Plus 4K Monitor - S2725QS - 27-inch 4K (3840 x 2160) 120Hz 16:9 Display, IPS Panel, AMD FreeSync Premium, sRGB 99%, Integrated Speakers, 1500:1 Contrast Ratio, Comfortview - Ash White'
+Step 4 | Plan: CLICK BUTTON | LABEL: 'Buy New $279.99' (element 244) | Action Taken: click | Target/Query: 244 | Result: Successfully clicked element: 'Buy New $279.99'
+Step 5 | Plan: CLICK BUTTON | LABEL: 'Add to cart' (element 343) | Action Taken: click | Target/Query: 343 | Result: Successfully clicked element: 'Add to cart'

@@ -1,0 +1,14 @@
+{
+  "id": "form_1",
+  "type": "TEXTAREA",
+  "visible": false,
+  "label": null,
+  "options": null,
+  "selector": "textarea:nth-of-type(1)",
+  "bounds": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  }
+}

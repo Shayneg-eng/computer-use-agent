@@ -1,0 +1,13 @@
+{
+  "id": "link_2",
+  "text": "Gmail",
+  "url": "https://mail.google.com/mail/&ogbl",
+  "visible": true,
+  "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div > header > div:nth-of-type(1) > div:nth-of-type(1) > a",
+  "bounds": {
+    "x": 1030,
+    "y": 17,
+    "width": 34,
+    "height": 24
+  }
+}

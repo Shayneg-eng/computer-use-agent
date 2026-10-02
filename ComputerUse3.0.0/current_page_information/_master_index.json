@@ -1,0 +1,15 @@
+{
+  "page_url": "https://google.com",
+  "timestamp": "2026-03-01T00:25:03.513160",
+  "title": "Google",
+  "summary": {
+    "total_buttons": 5,
+    "total_links": 16,
+    "total_input_fields": 2,
+    "total_form_elements": 2,
+    "total_images": 1,
+    "total_headings": 0,
+    "total_text_blocks": 0,
+    "total_interactive_elements": 25
+  }
+}

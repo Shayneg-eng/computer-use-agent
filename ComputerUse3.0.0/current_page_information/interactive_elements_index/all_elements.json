@@ -1,0 +1,155 @@
+{
+  "total_interactive_elements": 25,
+  "timestamp": "2026-03-01T00:25:03.513160",
+  "url": "https://google.com",
+  "elements": [
+    {
+      "type": "FORM_TEXTAREA",
+      "id": "form_0",
+      "label": "Search"
+    },
+    {
+      "type": "LINK",
+      "id": "link_0",
+      "label": "About",
+      "url": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header"
+    },
+    {
+      "type": "BUTTON",
+      "id": "btn_0",
+      "label": "Button 0",
+      "action": "click"
+    },
+    {
+      "type": "FORM_TEXTAREA",
+      "id": "form_1",
+      "label": "TEXTAREA element"
+    },
+    {
+      "type": "LINK",
+      "id": "link_1",
+      "label": "Store",
+      "url": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US"
+    },
+    {
+      "type": "INPUT",
+      "id": "input_0",
+      "label": "Search",
+      "input_type": "text"
+    },
+    {
+      "type": "BUTTON",
+      "id": "btn_1",
+      "label": "Button 1",
+      "action": "submit"
+    },
+    {
+      "type": "LINK",
+      "id": "link_2",
+      "label": "Gmail",
+      "url": "https://mail.google.com/mail/&ogbl"
+    },
+    {
+      "type": "INPUT",
+      "id": "input_1",
+      "label": "csi",
+      "input_type": "text"
+    },
+    {
+      "type": "BUTTON",
+      "id": "btn_2",
+      "label": "Button 2",
+      "action": "submit"
+    },
+    {
+      "type": "LINK",
+      "id": "link_3",
+      "label": "Images",
+      "url": "https://www.google.com/imghp?hl=en&ogbl"
+    },
+    {
+      "type": "BUTTON",
+      "id": "btn_3",
+      "label": "Button 3",
+      "action": "submit"
+    },
+    {
+      "type": "LINK",
+      "id": "link_5",
+      "label": "Sign in",
+      "url": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e"
+    },
+    {
+      "type": "BUTTON",
+      "id": "btn_4",
+      "label": "Button 4",
+      "action": "submit"
+    },
+    {
+      "type": "LINK",
+      "id": "link_6",
+      "label": "Advertising",
+      "url": "https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_7",
+      "label": "Business",
+      "url": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_8",
+      "label": "How Search works",
+      "url": "https://google.com/search/howsearchworks/?fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_9",
+      "label": "Applying AI towards science and the environment",
+      "url": "https://ai.google/societal-impact/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer"
+    },
+    {
+      "type": "LINK",
+      "id": "link_10",
+      "label": "Privacy",
+      "url": "https://policies.google.com/privacy?hl=en&fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_11",
+      "label": "Terms",
+      "url": "https://policies.google.com/terms?hl=en&fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_12",
+      "label": "Search settings",
+      "url": "https://www.google.com/preferences?hl=en&fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_13",
+      "label": "Advanced search",
+      "url": "/advanced_search?hl=en&fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_14",
+      "label": "Your data in Search",
+      "url": "/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1&cctld=com"
+    },
+    {
+      "type": "LINK",
+      "id": "link_15",
+      "label": "Search history",
+      "url": "/history/optout?hl=en&fg=1"
+    },
+    {
+      "type": "LINK",
+      "id": "link_16",
+      "label": "Search help",
+      "url": "https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1"
+    }
+  ]
+}

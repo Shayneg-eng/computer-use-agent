@@ -1,0 +1,282 @@
+[
+    {
+        "cdp_id": "26",
+        "role": "link",
+        "name": "Search"
+    },
+    {
+        "cdp_id": "31",
+        "role": "link",
+        "name": "DONATE"
+    },
+    {
+        "cdp_id": "386",
+        "role": "link",
+        "name": "Safety"
+    },
+    {
+        "cdp_id": "393",
+        "role": "link",
+        "name": "Opportunity"
+    },
+    {
+        "cdp_id": "400",
+        "role": "link",
+        "name": "Reporting"
+    },
+    {
+        "cdp_id": "410",
+        "role": "link",
+        "name": "Recognition"
+    },
+    {
+        "cdp_id": "417",
+        "role": "link",
+        "name": "Equity"
+    },
+    {
+        "cdp_id": "430",
+        "role": "link",
+        "name": "Newsroom Safety Across America"
+    },
+    {
+        "cdp_id": "440",
+        "role": "link",
+        "name": "Nominations open for Gwen Ifill Award"
+    },
+    {
+        "cdp_id": "447",
+        "role": "link",
+        "name": "2026 Anja Niedringhaus Courage in Photojournalism Award"
+    },
+    {
+        "cdp_id": "461",
+        "role": "link",
+        "name": "REPORTING Learn more about our grantees and fellows and their contributions to journalism."
+    },
+    {
+        "cdp_id": "469",
+        "role": "link",
+        "name": "PROGRAMS"
+    },
+    {
+        "cdp_id": "475",
+        "role": "link",
+        "name": "OUR AWARDS"
+    },
+    {
+        "cdp_id": "487",
+        "role": "link",
+        "name": "Mahima A. Jain"
+    },
+    {
+        "cdp_id": "495",
+        "role": "link",
+        "name": "Anjana Sankar"
+    },
+    {
+        "cdp_id": "503",
+        "role": "link",
+        "name": "Chelsea Curtis"
+    },
+    {
+        "cdp_id": "511",
+        "role": "link",
+        "name": "Samantha P\u00e1ez Guzm\u00e1n"
+    },
+    {
+        "cdp_id": "35",
+        "role": "textbox",
+        "name": "Email Address"
+    },
+    {
+        "cdp_id": "549",
+        "role": "button",
+        "name": "Submit"
+    },
+    {
+        "cdp_id": "557",
+        "role": "link",
+        "name": "Click here to email us"
+    },
+    {
+        "cdp_id": "592",
+        "role": "link",
+        "name": "PRIVACY"
+    },
+    {
+        "cdp_id": "593",
+        "role": "link",
+        "name": "TERMS OF SERVICE"
+    },
+    {
+        "cdp_id": "596",
+        "role": "link",
+        "name": "Nonprofit Web Design"
+    },
+    {
+        "cdp_id": "372",
+        "role": "link",
+        "name": "ABOUT US"
+    },
+    {
+        "cdp_id": "38",
+        "role": "link",
+        "name": "COURAGE AWARDS"
+    },
+    {
+        "cdp_id": "375",
+        "role": "link",
+        "name": "JOURNALISM SAFETY REPORT"
+    },
+    {
+        "cdp_id": "377",
+        "role": "link",
+        "name": "2025 IMPACT REPORT"
+    },
+    {
+        "cdp_id": "6",
+        "role": "link",
+        "name": "About"
+    },
+    {
+        "cdp_id": "9",
+        "role": "link",
+        "name": "Focus"
+    },
+    {
+        "cdp_id": "12",
+        "role": "link",
+        "name": "Opportunities"
+    },
+    {
+        "cdp_id": "21",
+        "role": "link",
+        "name": "Community"
+    },
+    {
+        "cdp_id": "24",
+        "role": "link",
+        "name": "Awards"
+    },
+    {
+        "cdp_id": "540",
+        "role": "link",
+        "name": "DONATE NOW"
+    },
+    {
+        "cdp_id": "188",
+        "role": "link",
+        "name": "Board of Directors"
+    },
+    {
+        "cdp_id": "190",
+        "role": "link",
+        "name": "Staff"
+    },
+    {
+        "cdp_id": "192",
+        "role": "link",
+        "name": "Meet our Donors"
+    },
+    {
+        "cdp_id": "194",
+        "role": "link",
+        "name": "News"
+    },
+    {
+        "cdp_id": "196",
+        "role": "link",
+        "name": "Impact"
+    },
+    {
+        "cdp_id": "198",
+        "role": "link",
+        "name": "Resources"
+    },
+    {
+        "cdp_id": "207",
+        "role": "link",
+        "name": "Contact Us"
+    },
+    {
+        "cdp_id": "221",
+        "role": "link",
+        "name": "Reporting Fellowships"
+    },
+    {
+        "cdp_id": "232",
+        "role": "link",
+        "name": "Grants & Funds"
+    },
+    {
+        "cdp_id": "241",
+        "role": "link",
+        "name": "Gwen Ifill Mentorship Program"
+    },
+    {
+        "cdp_id": "246",
+        "role": "link",
+        "name": "Past Programs"
+    },
+    {
+        "cdp_id": "249",
+        "role": "link",
+        "name": "Emergency Assistance"
+    },
+    {
+        "cdp_id": "256",
+        "role": "link",
+        "name": "Hostile Environment Training"
+    },
+    {
+        "cdp_id": "258",
+        "role": "link",
+        "name": "Online Abuse and Harassment"
+    },
+    {
+        "cdp_id": "260",
+        "role": "link",
+        "name": "Coalition Against Online Violence"
+    },
+    {
+        "cdp_id": "269",
+        "role": "link",
+        "name": "Next Gen Safety Trainers"
+    },
+    {
+        "cdp_id": "271",
+        "role": "link",
+        "name": "Journalist Trauma Support Network"
+    },
+    {
+        "cdp_id": "273",
+        "role": "link",
+        "name": "Safeguarding Women's Voices"
+    },
+    {
+        "cdp_id": "275",
+        "role": "link",
+        "name": "Guides and Reports"
+    },
+    {
+        "cdp_id": "293",
+        "role": "link",
+        "name": "Anja Niedringhaus Award"
+    },
+    {
+        "cdp_id": "295",
+        "role": "link",
+        "name": "Courage in Journalism Award"
+    },
+    {
+        "cdp_id": "297",
+        "role": "link",
+        "name": "Gwen Ifill Award"
+    },
+    {
+        "cdp_id": "299",
+        "role": "link",
+        "name": "Annenberg Justice for Women Journalists Award"
+    }
+]

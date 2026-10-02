@@ -1,0 +1,13 @@
+{
+  "id": "link_7",
+  "text": "Business",
+  "url": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1",
+  "visible": true,
+  "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+  "bounds": {
+    "x": 119,
+    "y": 673,
+    "width": 87,
+    "height": 47
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "input_0",
+  "type": "text",
+  "placeholder": "",
+  "label": "Search",
+  "name": "q",
+  "visible": true,
+  "selector": "#APjFqb",
+  "bounds": {
+    "x": 396,
+    "y": 247,
+    "width": 447,
+    "height": 50
+  }
+}

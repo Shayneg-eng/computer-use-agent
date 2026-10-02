@@ -1,0 +1,15 @@
+{
+  "id": "input_1",
+  "type": "text",
+  "placeholder": "",
+  "label": null,
+  "name": "csi",
+  "visible": false,
+  "selector": "textarea:nth-of-type(1)",
+  "bounds": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "link_0",
+  "text": "About",
+  "url": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
+  "visible": true,
+  "selector": "div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+  "bounds": {
+    "x": 21,
+    "y": 17,
+    "width": 47,
+    "height": 26
+  }
+}

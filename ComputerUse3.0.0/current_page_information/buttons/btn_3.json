@@ -1,0 +1,14 @@
+{
+  "id": "btn_3",
+  "text": "Button 3",
+  "visible": true,
+  "clickable": true,
+  "action": "submit",
+  "selector": "div:nth-of-type(2) > div:nth-of-type(4) > form:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > center > input:nth-of-type(1)",
+  "bounds": {
+    "x": 499,
+    "y": 327,
+    "width": 127,
+    "height": 36
+  }
+}

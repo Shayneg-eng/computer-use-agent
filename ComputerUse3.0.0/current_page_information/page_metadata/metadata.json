@@ -1,0 +1,12 @@
+{
+  "title": "Google",
+  "url": "https://www.google.com/",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "pathname": "/",
+  "hostname": "www.google.com",
+  "description": null,
+  "language": "en"
+}

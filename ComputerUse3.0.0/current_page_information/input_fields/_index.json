@@ -1,0 +1,17 @@
+{
+  "total_inputs": 2,
+  "inputs": [
+    {
+      "id": "input_0",
+      "type": "text",
+      "label": "Search",
+      "selector": "#APjFqb"
+    },
+    {
+      "id": "input_1",
+      "type": "text",
+      "label": null,
+      "selector": "textarea:nth-of-type(1)"
+    }
+  ]
+}

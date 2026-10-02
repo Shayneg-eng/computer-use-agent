@@ -1,0 +1,8 @@
+[ ] Open the Amazon homepage and ensure the site is set to the appropriate region (e.g., amazon.com).
+[ ] Enter the exact search phrase "27-inch 4K monitor" into the Amazon search bar and submit the query.
+[ ] From the resulting listings, identify three prominent non-sponsored products from recognizable brands (e.g., Dell, LG, Samsung, ASUS, etc.). Record each product's title, price, and note that they appear as organic results.
+[ ] For each of the three candidates, open its product detail page and verify the following attributes directly on the page: current price, screen size, resolution, refresh rate, seller/shipping availability, and stock status. Document any discrepancies.
+[ ] Reject any listing that is sponsored, out of stock, does not have a 27-inch screen size, or is not 4K resolution, providing a brief reason for each rejection.
+[ ] Among the remaining valid listings, compare them using the priority order: (1) lowest current price, (2) strongest brand recognition, (3) highest refresh rate. Select the single best listing.
+[ ] Return to the selected product's page, capture the exact product title and displayed price as shown, and verify that all required attributes are still present.
+[ ] Compile the final response including: the search phrase used, the three evaluated listings with their observed prices, reasons for any rejections, the winning product title, and the exact confirmed price.

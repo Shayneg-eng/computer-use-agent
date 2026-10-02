@@ -1,0 +1,14 @@
+{
+  "id": "btn_0",
+  "text": "Button 0",
+  "visible": false,
+  "clickable": true,
+  "action": "click",
+  "selector": "#spchx",
+  "bounds": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  }
+}

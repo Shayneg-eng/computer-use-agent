@@ -1,0 +1,15 @@
+{
+  "total_form_elements": 2,
+  "forms": [
+    {
+      "id": "form_0",
+      "type": "TEXTAREA",
+      "selector": "#APjFqb"
+    },
+    {
+      "id": "form_1",
+      "type": "TEXTAREA",
+      "selector": "textarea:nth-of-type(1)"
+    }
+  ]
+}

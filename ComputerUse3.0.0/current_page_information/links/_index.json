@@ -1,0 +1,101 @@
+{
+  "total_links": 16,
+  "links": [
+    {
+      "id": "link_0",
+      "text": "About",
+      "url": "https://about.google/?fg=1&utm_source=google-US&utm_medium=referral&utm_campaign=hp-header",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)"
+    },
+    {
+      "id": "link_1",
+      "text": "Store",
+      "url": "https://store.google.com/US?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=en-US",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2)"
+    },
+    {
+      "id": "link_2",
+      "text": "Gmail",
+      "url": "https://mail.google.com/mail/&ogbl",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div > header > div:nth-of-type(1) > div:nth-of-type(1) > a"
+    },
+    {
+      "id": "link_3",
+      "text": "Images",
+      "url": "https://www.google.com/imghp?hl=en&ogbl",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div > header > div:nth-of-type(1) > div:nth-of-type(2) > a"
+    },
+    {
+      "id": "link_5",
+      "text": "Sign in",
+      "url": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=futura_exp_og_so_72776762_e",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div > header > div:nth-of-type(3) > a:nth-of-type(1)"
+    },
+    {
+      "id": "link_6",
+      "text": "Advertising",
+      "url": "https://www.google.com/intl/en_us/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)"
+    },
+    {
+      "id": "link_7",
+      "text": "Business",
+      "url": "https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)"
+    },
+    {
+      "id": "link_8",
+      "text": "How Search works",
+      "url": "https://google.com/search/howsearchworks/?fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)"
+    },
+    {
+      "id": "link_9",
+      "text": "Applying AI towards science and the environment",
+      "url": "https://ai.google/societal-impact/?utm_source=googlehpfooter&utm_medium=housepromos&utm_campaign=bottom-footer",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(2) > a"
+    },
+    {
+      "id": "link_10",
+      "text": "Privacy",
+      "url": "https://policies.google.com/privacy?hl=en&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(1)"
+    },
+    {
+      "id": "link_11",
+      "text": "Terms",
+      "url": "https://policies.google.com/terms?hl=en&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > a:nth-of-type(2)"
+    },
+    {
+      "id": "link_12",
+      "text": "Search settings",
+      "url": "https://www.google.com/preferences?hl=en&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1) > g-popup:nth-of-type(1) > div:nth-of-type(2) > g-menu > g-menu-item:nth-of-type(1) > div > a"
+    },
+    {
+      "id": "link_13",
+      "text": "Advanced search",
+      "url": "/advanced_search?hl=en&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1) > g-popup:nth-of-type(1) > div:nth-of-type(2) > g-menu > g-menu-item:nth-of-type(2) > div > a"
+    },
+    {
+      "id": "link_14",
+      "text": "Your data in Search",
+      "url": "/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1&cctld=com",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1) > g-popup:nth-of-type(1) > div:nth-of-type(2) > g-menu > g-menu-item:nth-of-type(3) > div > a"
+    },
+    {
+      "id": "link_15",
+      "text": "Search history",
+      "url": "/history/optout?hl=en&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1) > g-popup:nth-of-type(1) > div:nth-of-type(2) > g-menu > g-menu-item:nth-of-type(4) > div > a"
+    },
+    {
+      "id": "link_16",
+      "text": "Search help",
+      "url": "https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1",
+      "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1) > g-popup:nth-of-type(1) > div:nth-of-type(2) > g-menu > g-menu-item:nth-of-type(5) > div > a"
+    }
+  ]
+}

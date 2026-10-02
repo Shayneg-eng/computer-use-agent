@@ -1,0 +1,14 @@
+{
+  "id": "btn_4",
+  "text": "Button 4",
+  "visible": true,
+  "clickable": true,
+  "action": "submit",
+  "selector": "#gbqfbb",
+  "bounds": {
+    "x": 638,
+    "y": 327,
+    "width": 143,
+    "height": 36
+  }
+}

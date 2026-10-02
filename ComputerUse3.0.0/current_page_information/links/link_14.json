@@ -1,0 +1,13 @@
+{
+  "id": "link_14",
+  "text": "Your data in Search",
+  "url": "/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1&cctld=com",
+  "visible": false,
+  "selector": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > div:nth-of-type(3) > span:nth-of-type(1) > span:nth-of-type(1) > g-popup:nth-of-type(1) > div:nth-of-type(2) > g-menu > g-menu-item:nth-of-type(3) > div > a",
+  "bounds": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  }
+}
